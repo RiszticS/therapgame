@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 01773317a40aae847940bd48f957e44b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: brushed_st
+    100004: CINEMA_4D_Editor
+    100006: digital_di
+    100008: front_logo
+    100010: front_whee
+    100012: headlight_
+    100014: //RootNode
+    100016: lambo_blac_1
+    100018: Lambo_Chro_1
+    100020: Lambo_Glas
+    100022: Lambo_Plas
+    100024: lambo_red_
+    100026: Lambo_Stee
+    100028: main_body__1
+    100030: main_calip
+    100032: pads_1
+    100034: rear_wheel
+    100036: red_light_
+    100038: rubber_bod_1
+    100040: side_glass
+    100042: wheel
+    100044: wheel1
+    100046: wheel_blac
+    100048: wheel_tire
+    400000: body
+    400002: brushed_st
+    400004: CINEMA_4D_Editor
+    400006: digital_di
+    400008: front_logo
+    400010: front_whee
+    400012: headlight_
+    400014: //RootNode
+    400016: lambo_blac_1
+    400018: Lambo_Chro_1
+    400020: Lambo_Glas
+    400022: Lambo_Plas
+    400024: lambo_red_
+    400026: Lambo_Stee
+    400028: main_body__1
+    400030: main_calip
+    400032: pads_1
+    400034: rear_wheel
+    400036: red_light_
+    400038: rubber_bod_1
+    400040: side_glass
+    400042: wheel
+    400044: wheel1
+    400046: wheel_blac
+    400048: wheel_tire
+    2000000: CINEMA_4D_Editor
+    2100000: No Name
+    2300000: brushed_st
+    2300002: digital_di
+    2300004: front_logo
+    2300006: headlight_
+    2300008: lambo_blac_1
+    2300010: Lambo_Chro_1
+    2300012: Lambo_Glas
+    2300014: Lambo_Plas
+    2300016: lambo_red_
+    2300018: Lambo_Stee
+    2300020: main_body__1
+    2300022: main_calip
+    2300024: pads_1
+    2300026: red_light_
+    2300028: rubber_bod_1
+    2300030: side_glass
+    2300032: wheel
+    2300034: wheel1
+    2300036: wheel_blac
+    2300038: wheel_tire
+    3300000: brushed_st
+    3300002: digital_di
+    3300004: front_logo
+    3300006: headlight_
+    3300008: lambo_blac_1
+    3300010: Lambo_Chro_1
+    3300012: Lambo_Glas
+    3300014: Lambo_Plas
+    3300016: lambo_red_
+    3300018: Lambo_Stee
+    3300020: main_body__1
+    3300022: main_calip
+    3300024: pads_1
+    3300026: red_light_
+    3300028: rubber_bod_1
+    3300030: side_glass
+    3300032: wheel
+    3300034: wheel1
+    3300036: wheel_blac
+    3300038: wheel_tire
+    4300000: wheel_blac
+    4300002: wheel_tire
+    4300004: wheel
+    4300006: wheel1
+    4300008: Lambo_Chro_1
+    4300010: front_logo
+    4300012: pads_1
+    4300014: main_calip
+    4300016: side_glass
+    4300018: Lambo_Plas
+    4300020: Lambo_Glas
+    4300022: digital_di
+    4300024: brushed_st
+    4300026: headlight_
+    4300028: Lambo_Stee
+    4300030: red_light_
+    4300032: main_body__1
+    4300034: lambo_red_
+    4300036: rubber_bod_1
+    4300038: lambo_blac_1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
