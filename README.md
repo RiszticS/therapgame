@@ -48,8 +48,3 @@ Célunk egy olyan játék létrehozása volt, amely **túlnyúl a tudásunkon**,
 1. **Töltsd le a projektfájlokat.**
 2. **Nyisd meg Unity-ben és buildeld a játékot.**
 3. **Futtasd a kész buildet Windows rendszeren.**
-
-## Források
-- Unity hivatalos dokumentáció
-- GitHub alap sablon
-- YouTube tutorialok
